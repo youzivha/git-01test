@@ -4,3 +4,4 @@ var a = 001;
 //vscde
 //hahahaa
 let obj = {}//我是dev
+let str = '让我们做个测试'
