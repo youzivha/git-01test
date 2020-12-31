@@ -5,3 +5,4 @@ var a = 001;
 //hahahaa
 let obj = {}//我是dev
 let str = '让我们做个测试'
+let str2 = '最炫小苹果'
